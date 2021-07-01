@@ -48,4 +48,4 @@
 https://api.quarantine.country/api/v1/regions - 
 1. curl https://api.quarantine.country/api/v1/regions (стандартный вывод) 2. curl -o file3.txt https://api.quarantine.country/api/v1/regions (запрос с записью результата в файл)
 
-2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13 - попозже
+
